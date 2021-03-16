@@ -1,0 +1,3 @@
+include ':iroom-modelar'
+include ':app'
+rootProject.name = "iroom"
